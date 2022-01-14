@@ -1,0 +1,226 @@
+{
+    "RPT": {
+        "ScanTime": "2.372 sec.",
+        "ScanFile": "20220111_regagro_44b62bb87b07806e9082_20220111053846_scan.json",
+        "ScanCreated": "2022-01-11 05:38:50",
+        "ScanPath": "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/backups-dup-pro\/tmp\/20220111_regagro_44b62bb87b07806e9082_20220111053846_scan.json"
+    },
+    "ARC": {
+        "Size": "68.25MB",
+        "DirCount": "698",
+        "FileCount": "4,413",
+        "FullCount": "5,111",
+        "USize": 71570225,
+        "UDirCount": 698,
+        "UFileCount": 4413,
+        "UFullCount": 5111,
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "D:\/OpenServer\/domains\/regagro.nz\/.opcache",
+            "D:\/OpenServer\/domains\/regagro.nz\/.tmb",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/ai1wm-backups",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/backups-dup-lite",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/backups-dup-pro",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/backups-dup-pro",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/backupwordpress",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/bps-backup",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/cache",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/content\/cache",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/contents\/cache",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/infinitewp\/backups",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/managewp\/backups",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/old-cache",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/plugins\/really-simple-captcha\/tmp",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/plugins\/wordfence\/tmp",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/updraft",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/uploads\/aiowps_backups",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/uploads\/backup-guard",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/uploads\/backupbuddy_backups",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/uploads\/backupbuddy_temp",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/uploads\/ithemes-security\/backups",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/uploads\/mainwp\/backup",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/uploads\/pb_backupbuddy",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/uploads\/snapshots",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/uploads\/sucuri",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/uploads\/wp-clone",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/uploads\/wp_all_backup",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/uploads\/wpbackitup_backups",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/wfcache",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-content\/wishlist-backup",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            ".DS_Store",
+            "D:\/OpenServer\/domains\/regagro.nz\/.htaccess",
+            "D:\/OpenServer\/domains\/regagro.nz\/.user.ini",
+            "D:\/OpenServer\/domains\/regagro.nz\/php.ini",
+            "D:\/OpenServer\/domains\/regagro.nz\/web.config",
+            "D:\/OpenServer\/domains\/regagro.nz\/wp-config.php",
+            "dbcache",
+            "debug_log",
+            "error_log",
+            "objectcache",
+            "pgcache",
+            "ws_ftp.log"
+        ],
+        "FilterExtsAll": [],
+        "FilteredCoreDirs": [],
+        "FilteredSites": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "Big": "Good",
+            "AddonSites": "Good",
+            "UnreadableItems": "Good",
+            "showCreateFuncStatus": "Good",
+            "showCreateFunc": true,
+            "HasImportableSites": false,
+            "HasNotImportableSites": false,
+            "CanbeMigratePackage": true,
+            "HasFilteredCoreFolders": false,
+            "HasFilteredSiteTables": false,
+            "HasFilteredSites": false,
+            "Network": "Good",
+            "IsDBOnly": 0,
+            "PackageIsNotImportable": false
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": [],
+        "Subsites": []
+    },
+    "SRV": {
+        "Brand": {
+            "LogoAttachmentExists": false,
+            "LogoCount": 0,
+            "LogoFinded": 0,
+            "LogoImageExists": true,
+            "LogoImages": [],
+            "Name": "Default",
+            "Notes": "The default content used when a brand is not defined"
+        },
+        "HOST": [],
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "openssl": true,
+            "mysqli": true,
+            "allowurlfopen": true,
+            "curlavailable": true,
+            "arch64bit": true,
+            "minMemory": true,
+            "version": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ismuplus": false,
+            "ALL": "Good"
+        }
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "Size": "Good",
+            "Rows": "Good",
+            "Triggers": "Good"
+        },
+        "Size": "1.73MB",
+        "Rows": "277",
+        "TableCount": 14,
+        "TableList": {
+            "wp_commentmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_comments": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "96KB",
+                "USize": 98304
+            },
+            "wp_duplicator_pro_entities": {
+                "Case": 0,
+                "Rows": "5",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_duplicator_pro_packages": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_options": {
+                "Case": 0,
+                "Rows": "158",
+                "Size": "1.06MB",
+                "USize": 1114112
+            },
+            "wp_postmeta": {
+                "Case": 0,
+                "Rows": "61",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_posts": {
+                "Case": 0,
+                "Rows": "21",
+                "Size": "112KB",
+                "USize": 114688
+            },
+            "wp_term_relationships": {
+                "Case": 0,
+                "Rows": "5",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_term_taxonomy": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_termmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_terms": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_usermeta": {
+                "Case": 0,
+                "Rows": "22",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_users": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": 65536
+            }
+        },
+        "FilteredTables": []
+    },
+    "Status": 1
+}

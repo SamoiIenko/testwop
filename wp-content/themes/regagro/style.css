@@ -1,0 +1,389 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+* {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+}
+
+main {
+	min-height: calc(100vh - 89px - 433px);
+}
+
+  footer {
+	margin-top: 130px;
+}
+
+header .container {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+header .header-text {
+	margin-bottom: 0;
+	margin-top: 1rem;
+	font-weight: 500;
+	margin-left: 40px;
+}
+
+header .nav li {
+	margin-left: 25px;
+}
+
+header .nav li a {
+	font-weight: 400;
+	color: #000;
+	text-decoration: none;
+}
+
+header .nav li a:hover {
+	color: #FF6B00;
+}
+
+header .header-reg-button {
+	margin-left: 25px;
+	background-color: #FFDA18;
+	border: 1px solid #FFDA18;
+	width: 165px;
+	height: 40px;
+}
+
+header .regions-window {
+	background-color: rgba(255, 255, 255, 0.9);
+	position: relative;
+	z-index: 999;
+	display: none;
+}
+header .regions-window p {
+	margin-bottom: 0;
+	color: #3B3B3B;
+	font-size: 20px;
+}
+
+header .regions-window .links a {
+	text-decoration: none;
+	color: #757575;
+}
+
+header .regions-window .links a:hover {
+	text-decoration: underline;
+}
+
+header .regions-window .links p {
+	color: #757575;
+	font-size: 16px;
+}
+
+header .regions-window .links svg {
+	margin-left: 12px;
+}
+
+header .regions-window .links .reg{
+	margin-right: 75px;
+}
+
+header .regions-window .row .col {
+	padding: 15px 0;
+}
+
+
+/* FRONT PAGE */
+
+
+
+#carouselExampleControls {
+    top: 0px;
+}
+
+#carouselExampleControls .carousel-inner .main-slide-1 {
+height: 510px;
+position: relative;
+}
+
+#carouselExampleControls .carousel-inner .main-slide-1 h1 {
+	font-size: 50px;
+	color: #fff;
+	font-weight: 500;
+	text-shadow: 0px 4px 10px rgba(0, 0, 0, 0.22);
+}
+
+#carouselExampleControls .carousel-inner .main-slide-1 p {
+	font-size: 22px;
+	color: #fff;
+	text-shadow: 0px 4px 10px rgba(0, 0, 0, 0.22);
+}
+
+#carouselExampleControls .carousel-inner .main-slide-1 .container div {
+	position: absolute;
+	bottom: 40px;
+	width: 1000px;
+}
+
+.map-stats-block h1 {
+	text-align: center;
+}
+
+
+.mark-block {
+	width: 342px;
+    height: 142px;
+    filter: drop-shadow(0px 5px 5px rgba(0, 0, 0, 0.14));
+    background-color: #fff;
+    margin: 10px;
+	position: relative;
+}
+
+.mark-block .img-mark-block {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+.mark-block .svg-mark-block {
+	margin-left: 40px;
+	margin-top: 25px;
+}
+
+.mark-block .arrow-mark-block {
+	position: absolute;
+	top: 20px;
+	right: 30px;
+}
+.mark-slider-block a {
+	text-decoration: none;
+	color: #505050;
+}
+
+.mark-block p {
+	margin-top: 25px;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 18px;
+	margin-left: 40px;
+	z-index: 99999;
+    position: relative;
+}
+
+
+/* NEWS */
+
+.news-card-block {
+	height: 380px;
+	width: 610px;
+	position: relative;
+}
+
+.news-card-block p{
+	color: #fff;
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.news-card-block .news-card-block-text{
+	width: 420px;
+	position: absolute;
+	bottom: 35px;
+	left: 40px;
+}
+
+.news-card-block .news-date{
+	font-size: 15px;
+	line-height: 19px;
+}
+
+.news-card-block .news-title{
+	font-size: 25px;
+	line-height: 29px;
+	font-weight: bold;
+}
+
+.news-card-block .news-text{
+	font-size: 16px;
+	line-height: 19px;
+}
+
+.news svg{
+	margin-left: 25px;
+}
+
+.news .more-news-title h4{
+	color: #3b3b3b;
+	font-size: 32px;
+	line-height: 32px;	
+	font-weight: 400;
+}
+
+.news .more-news-title a{
+	text-decoration: none;
+	color: #3b3b3b;
+}
+
+.news .more-news-title a:hover{
+	text-decoration: underline;
+}
+
+.owl-theme .owl-nav {
+	position: absolute;
+    bottom: 40%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.owl-carousel .owl-stage-outer {
+	overflow: visible;
+}
+
+.owl-arrow-right-block, .owl-arrow-left-block {
+	width: 50px;
+	height: 50px;
+	border-radius: 100% !important;
+	display: flex !important;
+	align-items: center;
+	justify-content: center;
+	background-color: #fff !important;
+	border: 1px solid #000;
+}
+
+.owl-theme .owl-nav [class*=owl-] {
+	margin: 0px;
+}
+
+.owl-theme .owl-nav [class*=owl-]:hover {
+	border-radius: 100% !important;
+	background: #fff !important;
+}
+
+.owl-arrow-right-block i, .owl-arrow-left-block i {
+	color: #000;
+}
+
+
+
+.news-field h1 {
+	font-size: 20px;
+    font-weight: 400;
+    margin-top: 40px;
+}
+
+.news h4 {
+	font-size: 20px;
+	font-weight: 600;
+}
+
+
+
+.page-news .news-card-block {
+	width: 100%;
+}
+
+
+
+
+/* FOOTER */
+
+
+
+footer .container-fluid {
+	background-color: #3E3E3E;
+}
+
+footer .container {
+	padding-top: 25px;
+	padding-bottom: 40px;
+}
+
+.footer-block p {
+	font-size: 14px;
+	color: #9F9F9F;
+	margin-bottom: 5px;
+	line-height: 22px;
+}
+
+.footer-block a {
+	text-decoration: none;
+}
+
+.footer-block h1 {
+	font-size: 16px;
+	color: #9F9F9F;
+	margin-bottom: 0;
+	text-transform: uppercase;
+	line-height: 24px;
+	font-weight: 400;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.footer-block .date {
+	color: #858787;
+	margin-top: 30px;
+}
+
+.footer-block .regagro-logo-footer {
+	margin-bottom: 25px;
+}
+
+#myInput {
+	font-size: 10px;
+}
+
+.choose-reg-btn {
+	width: 165px;
+	height: 40px;
+	background-color: #FFDA18;
+	border: none;
+	display: none;
+}
+
+
+
+
+.autocomplete {
+	/*the container must be positioned relative:*/
+	position: relative;
+	display: inline-block;
+	margin-left: 25px;
+  }
+  input {
+	border: 1px solid transparent;
+	background-color: #f1f1f1;
+	padding: 10px;
+	font-size: 16px;
+  }
+  input[type=text] {
+	background-color: #fff;
+    width: 100%;
+    border: 1px solid #DCDCDC;
+  }
+  input[type=submit] {
+	background-color: DodgerBlue;
+	color: #fff;
+  }
+  .autocomplete-items {
+	position: absolute;
+	border: 1px solid #d4d4d4;
+	border-bottom: none;
+	border-top: none;
+	z-index: 3000;
+	/*position the autocomplete items to be the same width as the container:*/
+	top: 100%;
+	left: 0;
+	right: 0;
+  }
+  .autocomplete-items div {
+	padding: 10px;
+	cursor: pointer;
+	background-color: #fff;
+	border-bottom: 1px solid #d4d4d4;
+  }
+  .autocomplete-items div:hover {
+	/*when hovering an item:*/
+	background-color: #e9e9e9;
+  }
+  .autocomplete-active {
+	/*when navigating through the items using the arrow keys:*/
+	background-color: DodgerBlue !important;
+	color: #ffffff;
+  }
+
+
+  

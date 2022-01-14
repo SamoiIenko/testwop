@@ -1,0 +1,131 @@
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2022-01-11 05:39:05
+NOTICE: Do NOT post to public sites or forums 
+PACKAGE CREATION START
+********************************************************************************
+********************************************************************************
+VERSION:	4.0.5.2
+WORDPRESS:	5.8.3
+PHP INFO:	7.4.5 | SAPI: apache2handler
+SERVER:		Apache 
+ARCHITECTURE:	64-bit 
+CLIENT KICKOFF: off 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 4294967296 (1536M default) 
+RUN TYPE:	Manual
+MEMORY STACK:	18MB
+ARCHIVE ENGINE: ZipArchive: multi-thread
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP + CHUNKING (query size limit - 131072 )
+
+TABLES: total: 14 | filtered:0 | create:14
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wp_users NUM ROWS: 1
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wp_users NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:1] wp_usermeta NUM ROWS: 22
+INSERT ROWS TABLE[INDEX:2] wp_commentmeta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:3] wp_comments NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:4] wp_duplicator_pro_entities NUM ROWS: 5
+INSERT ROWS TABLE[INDEX:5] wp_duplicator_pro_packages NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:6] wp_links NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:7] wp_options NUM ROWS: 160
+INSERT ROWS TABLE[INDEX:8] wp_postmeta NUM ROWS: 57
+INSERT ROWS TABLE[INDEX:9] wp_posts NUM ROWS: 21
+INSERT ROWS TABLE[INDEX:10] wp_term_relationships NUM ROWS: 5
+INSERT ROWS TABLE[INDEX:11] wp_term_taxonomy NUM ROWS: 2
+INSERT ROWS TABLE[INDEX:12] wp_termmeta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:13] wp_terms NUM ROWS: 2
+SQL FILE SIZE CHECK OK, SIZE: 1007199
+SQL CREATED: 20220111_regagro_44b62bb87b07806e9082_20220111053846_database.sql
+SQL FILE SIZE: 983.59KB
+SQL FILE TIME: 2022-01-11 05:39:08
+SQL RUNTIME: 3.566 sec.
+MEMORY STACK: 42MB
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  D:/OpenServer/domains/regagro.nz
+ARCHIVE FILE: 20220111_regagro_44b62bb87b07806e9082_20220111053846_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	68.25MB
+STATS:	Dirs 698 | Files 4,413 | Total 5,111
+SQL ADDED: 20220111_regagro_44b62bb87b07806e9082_20220111053846_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3224
+    [filename] => D:\OpenServer\domains\regagro.nz\wp-content\backups-dup-pro\tmp\20220111_regagro_44b62bb87b07806e9082_20220111053846_archive.zip
+    [comment] => 
+)
+
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4531
+    [filename] => D:\OpenServer\domains\regagro.nz\wp-content\backups-dup-pro\tmp\20220111_regagro_44b62bb87b07806e9082_20220111053846_archive.zip
+    [comment] => 
+)
+
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5111
+    [filename] => D:\OpenServer\domains\regagro.nz\wp-content\backups-dup-pro\tmp\20220111_regagro_44b62bb87b07806e9082_20220111053846_archive.zip
+    [comment] => 
+)
+
+COMPRESSED SIZE: 22MB
+ARCHIVE RUNTIME: 59.636 sec.
+MEMORY STACK: 24MB
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+STORAGE:
+********************************************************************************
+LOCAL: Default, D:/OpenServer/domains/regagro.nz/wp-content/backups-dup-pro
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 983.59KB
+INSTALLER FILE: 76.82KB
+ARCHIVE FILE: 23.71MB 
+EXPECTED FILE/DIRECTORY COUNT: 5,111
+ACTUAL FILE/DIRECTORY COUNT: 5,111
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 66.889 sec.
+PEAK PHP MEMORY USED: 22MB
+DONE PROCESSING => 20220111_regagro 2022-01-11 05:40:12
+
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+** LOCAL [Name: Default] [ID: -2] **
+SUCCESS: copied to default location: D:/OpenServer/domains/regagro.nz/wp-content/backups-dup-pro
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+STORAGE PROCESSING COMPLETED
+
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE CREATION OR MANUAL STORAGE TRANSFER END: 2022-01-11 05:40:13
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+********************************************************************************
+
